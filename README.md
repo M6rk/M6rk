@@ -1,5 +1,5 @@
 # Hi I'm Mark 👋
-### 1st Year Student at UBCO 💻
+### First Year Student at UBCO 💻
 ### I live in Canada 🍁
 ### I'm 18 years old 😄
 #
