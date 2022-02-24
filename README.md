@@ -2,7 +2,7 @@
 ---
 # Hi I'm Mark 👋
 ## First Year Student at UBCO 💻
-## I live in Canada 🍁
+## I live in Canada and I'm 18 years old 🍁
 <img src="https://media1.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" alt="drawing" width="300"/> 
 <!--
 **M6rk/M6rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
