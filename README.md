@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi I'm Mark 👋
+### 1st Year Student at UBCO 💻
+### I live in Canada 🍁
+### I'm 18 years old 😄
+#
 
 <!--
 **M6rk/M6rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
