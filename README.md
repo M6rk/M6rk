@@ -1,7 +1,7 @@
 <img src="banner.png"/> </img>
 ---
 # Hi I'm Mark 👋
-## First Year Student at UBCO 💻
+## Second Year Student at UBCO 💻
 ## I live in Canada and I'm 18 years old 🍁
 <img src="https://media1.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" alt="drawing" width="300"/> 
 <!--
