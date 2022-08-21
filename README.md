@@ -12,18 +12,10 @@
 ### 🌱 I love nature and traveling 
 #
 
-
-
-
  <a href="https://twitter.com/mlalrk">
 <img src = "twitter.png" alt="Cool gif" width="40" height="30">
  </a>
  </p>
-
-<p style="text-align: center;">
-<img src = "coolgif.gif" alt="Cool gif" width="250" height="250">
-</p>
-
 
 <!--
 **M6rk/M6rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
