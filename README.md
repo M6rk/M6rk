@@ -12,10 +12,20 @@
 ### 🌱 I love nature and traveling 
 #
 
+
+ <p style= "text-align: center;">
+ <img src = "java.png" width="80" height="40">
+ <img src = "python.png" width = "37" height = "35">
+ <img src = "c4d.png" width = "37" height = "35">
+ <img src = "ps.png" width = "37" height = "35">
+ </p>
+ 
+ #
  <a href="https://twitter.com/mlalrk">
-<img src = "twitter.png" alt="Cool gif" width="40" height="30">
+<img src = "twitter.png" width="40" height="30">
  </a>
  </p>
+
 
 <!--
 **M6rk/M6rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
