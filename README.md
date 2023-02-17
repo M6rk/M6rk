@@ -4,8 +4,8 @@
 
 
 ## Hi there 👋
-- Currently working on a text-based dungeon crawler programmed in java
-- Learning about game design in unity and automation using python
+- Currently working on creating a card game for IOS devices using Swift.
+- Learning about Machine Architecture using MIPS
 ### 💻 Second Year Student at UBCO 
 
  <p style= "text-align: center;">
