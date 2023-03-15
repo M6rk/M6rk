@@ -14,8 +14,5 @@
  <img src = "c4d.png" width = "37" height = "35">
  <img src = "ps.png" width = "37" height = "35">
  </p>
-
- <a href="https://twitter.com/mlalrk">
-<img src = "twitter.png" width="40" height="30">
  </a>
  </p>
