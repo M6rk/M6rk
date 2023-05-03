@@ -6,7 +6,7 @@
 ## Hi there 👋
 - Currently working on creating a card game for IOS devices using Swift.
 - Learning about Machine Architecture using MIPS
-### 💻 Second Year Student at UBCO 
+### 💻 Third Year Student at UBCO 
 
  <p style= "text-align: center;">
  <img src = "javacup.png" width="30" height="">
