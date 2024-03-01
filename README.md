@@ -4,8 +4,8 @@
 
 
 ## Hi there 👋
-- Currently working on creating a card game for IOS devices using Swift.
-- Learning about Machine Architecture using MIPS
+- Currently working as a web developer for UBC's RESPECT Magazine.
+- Learning about HCI with a focus on acessibility, Web programming, & Software engineering.
 ### 💻 Third Year Student at UBCO 
 
  <p style= "text-align: center;">
