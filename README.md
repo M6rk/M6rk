@@ -4,8 +4,8 @@
 
 
 ## Hi there 👋
-- Currently working as a web developer for UBC's RESPECT Magazine.
-- Learning about HCI with a focus on acessibility, Web programming, & Software engineering.
+- Currently working as a web developer for UBC's RESPECT Magazine & StEARing .
+- Learning about HCI with a focus on Acessibility, Web Programming, & Software engineering.
 ### 💻 Third Year Student at UBCO 
 
  <p style= "text-align: center;">
